@@ -2,13 +2,13 @@ In order to form an immaculate member of a flock of sheep one must, above all, b
 
 Quotations Library by Chris Santala 2010-now
 
-setup
-1. drop into localhost
+setup  
+1. drop into localhost  
 2. execute rand_quote.php
 
-codeigniter
-1. place quotes.php and quotes.txt into application/library/quotations
-2. call from controller like this:
+codeigniter  
+1. place quotes.php and quotes.txt into application/library/quotations  
+2. call from controller like this:  
 
 	public function index() {
 
