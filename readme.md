@@ -5,7 +5,7 @@
 1. unzip library into server  
 2. execute rand_quote.php
 
-#####codeigniter#####  
+#####codeigniter#####
 1. place quotes.php and quotes.txt into application/library/quotations  
 2. call from controller like this:  
 
@@ -25,4 +25,4 @@ public function index()
 }
 ```
 
-demo http://ablitica.com/logo
+demo http://ablitica.com/quotes
